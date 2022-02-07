@@ -1,0 +1,19 @@
+body{
+    background-image: radial-gradient(circle at 74.01% -1.5%, #c5fcff 0, #5389f2 50%, #002550 100%);
+    background-attachment: fixed;
+}
+
+
+#base{
+margin-left: 33%;
+margin-right: 33%;
+text-align: center;
+}
+#titulo{
+    margin: 2%;
+    background-color: skyblue;
+}
+#p{
+    margin: 10px;
+ 
+}
